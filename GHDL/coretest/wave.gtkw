@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Dec  5 11:49:07 2020
+[*]
+[dumpfile] "/home/serg/ws/eda/seriscv/GHDL/coretest/sim/seriscv_core_tb.ghw"
+[dumpfile_mtime] "Sat Dec  5 11:48:13 2020"
+[dumpfile_size] 1361643
+[savefile] "/home/serg/ws/eda/seriscv/GHDL/coretest/wave.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-29.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.seriscv_core_tb.
+[treeopen] top.seriscv_core_tb.duv.
+[sst_width] 233
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+top.seriscv_core_tb.sim_clk
+@22
+#{top.seriscv_core_tb.duv.instruction[31:0]} top.seriscv_core_tb.duv.instruction[31] top.seriscv_core_tb.duv.instruction[30] top.seriscv_core_tb.duv.instruction[29] top.seriscv_core_tb.duv.instruction[28] top.seriscv_core_tb.duv.instruction[27] top.seriscv_core_tb.duv.instruction[26] top.seriscv_core_tb.duv.instruction[25] top.seriscv_core_tb.duv.instruction[24] top.seriscv_core_tb.duv.instruction[23] top.seriscv_core_tb.duv.instruction[22] top.seriscv_core_tb.duv.instruction[21] top.seriscv_core_tb.duv.instruction[20] top.seriscv_core_tb.duv.instruction[19] top.seriscv_core_tb.duv.instruction[18] top.seriscv_core_tb.duv.instruction[17] top.seriscv_core_tb.duv.instruction[16] top.seriscv_core_tb.duv.instruction[15] top.seriscv_core_tb.duv.instruction[14] top.seriscv_core_tb.duv.instruction[13] top.seriscv_core_tb.duv.instruction[12] top.seriscv_core_tb.duv.instruction[11] top.seriscv_core_tb.duv.instruction[10] top.seriscv_core_tb.duv.instruction[9] top.seriscv_core_tb.duv.instruction[8] top.seriscv_core_tb.duv.instruction[7] top.seriscv_core_tb.duv.instruction[6] top.seriscv_core_tb.duv.instruction[5] top.seriscv_core_tb.duv.instruction[4] top.seriscv_core_tb.duv.instruction[3] top.seriscv_core_tb.duv.instruction[2] top.seriscv_core_tb.duv.instruction[1] top.seriscv_core_tb.duv.instruction[0]
+@23
+#{top.seriscv_core_tb.duv.pc[4:0]} top.seriscv_core_tb.duv.pc[4] top.seriscv_core_tb.duv.pc[3] top.seriscv_core_tb.duv.pc[2] top.seriscv_core_tb.duv.pc[1] top.seriscv_core_tb.duv.pc[0]
+[pattern_trace] 1
+[pattern_trace] 0
